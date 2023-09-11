@@ -1,0 +1,34 @@
+admin
+1234
+admin12345
+root
+Kifaru12345
+12345
+erick
+sally
+qwerty
+qwerty12345
+Qwerty12345
+qwert
+
+RECOMMENDETIONS :
+1. Firewall: Blocks unauthorized incoming traffic snort
+2. Limit Login Attempt to 3 attempts
+3. 2 - factor authentication : 
+4. Intrusion Detection and Prevention Systems e,g snot
+5. Enforce Strong Passwords
+6. Train the staff on security measures
+
+BURPE SUITE COMMUNITY EDITION 
+
+EDITION Man In the Middle
+Attack.altoromutual.com
+
+Altoro Mutual has two usernames:
+1. admin
+2. jsmith
+
+Challenge: Bypass their Account
+1. jsmith
+Step1: Guess
+Step2: Run MIM attack using Burpsuite
